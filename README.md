@@ -1,11 +1,11 @@
 # Welcome to my GitHub profile 🚀
 
-## 👩🏾‍💻 About me 🌱
+## 👩🏾‍💻 About me
 
 💻 **Software & DevOps Engineer** : Python, Docker, CI/CD, GitHub Actions, Terraform, AWS  
 👋 My name is **Anne** and I am a graduate Software Engineer (specialization in AI & Data)  
 📌 Based in **Paris, Île-de-France, France**  
-🎓 Graduate from **CESI Nanterre** — Computer Science Engineering, AI & Data specialization (2025)  
+🎓 Graduate from **CESI Nanterre** Computer Science Engineering, AI & Data specialization (2025)  
 🔁 Convinced that **Software Development + DevOps = full-cycle profile**, I build pipelines,
    automate workflows and deploy applications end to end  
 ✈️ International experience : American startup (Pittsburgh, PA) + large corporations (Safran)  
@@ -44,7 +44,7 @@
 ![Dash](https://img.shields.io/badge/Dash-008DE4?style=flat&logo=plotly&logoColor=white)
 
 
-## ✅ Get in touch ✉️
+## Get in touch ✉️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/anne-tchenang-76b06519b)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:am.tchenang@gmail.com)
