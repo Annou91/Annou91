@@ -30,7 +30,7 @@ automation, and end-to-end ownership from design to deployment.
 
 | # | Project | Stack | Description | Repo |
 |---|---------|-------|-------------|------|
-| 01 | 📊 **Data Dashboard App** | FastAPI · React · PostgreSQL · Docker · GitHub Actions | Full-stack web app for industrial data visualization. Interactive dashboard with dynamic filters, report export (PDF/Word) and user authentication. Containerized and deployed via CI/CD. | [🔗 View](#) |
+| 01 | 📊 **Data Dashboard App** | FastAPI · React · PostgreSQL · Docker · GitHub Actions | Full-stack web app for industrial data visualization. Interactive dashboard with dynamic filters, report export (PDF/Word) and user authentication. Containerized and deployed via CI/CD. | [🔗 View](https://github.com/Annou91/data-dashboard-app) |
 | 02 | ⚙️ **Automation Report Generator** | Python · pandas · python-docx · GitHub Actions | Automation script generating structured Word/PDF reports from CSV/Excel datasets. Inspired by real work at Safran. Includes unit tests and GitHub Actions pipeline. | [🔗 View](#) |
 
 
